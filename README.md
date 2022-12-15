@@ -1,3 +1,5 @@
+# Adapted and Derived from @metaplex-foundation/solita(https://github.com/metaplex-foundation/solita/releases/tag/v0.19.1)
+
 # solita [![Build Lint and Test Solita](https://github.com/metaplex-foundation/solita/actions/workflows/solita.yml/badge.svg)](https://github.com/metaplex-foundation/solita/actions/workflows/solita.yml)
 
 **Sol** ana **I** DL **t** o **A** PI generator.
